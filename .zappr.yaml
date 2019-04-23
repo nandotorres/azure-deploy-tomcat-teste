@@ -2,6 +2,7 @@
 # a more exhaustive description is at
 # https://zappr.readthedocs.io/en/latest/setup
 
+
 # uncomment this if you want to change anything
 approvals:
 #   by default, an approval is the thumbs up emoji only: ^:\\+1:$
